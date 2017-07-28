@@ -1,0 +1,35 @@
+*{
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.reposition{
+  position: relative;
+}
+
+.abposition{
+  position: absolute;
+}
+
+.floatl{
+  float: left;
+}
+
+.floatr{
+  float: right;
+}
+
+.fontFamily{
+  font-family: 宋体;
+}
+
+
